@@ -18,11 +18,6 @@ A particle-theme template as a landing page for your portfolio.
   
     ```
     $ cd ParticleGround-Portfolio
-    ```
-    
-  - Modify `index.html` to change the names and links to point at your pages.
-  
-  - Upload your resume in the place of `deedy.pdf` (Or One can use the famous deedy template and build on that)
    
 # Particle Feature
 
